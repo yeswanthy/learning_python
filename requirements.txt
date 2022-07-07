@@ -93,7 +93,7 @@ python-dateutil==2.7.3
 python-debian==0.1.32
 pytz==2019.3
 PyYAML==3.13
-requests==2.2.1
+requests==2.20.0
 requests-toolbelt==0.8.0
 requests-unixsocket==0.1.5
 rsa==3.4.2
